@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=TimesNewRoman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Al+Noman!;" />
 </h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 🚀 Aspiring Software Engineer | Technology Explorer | Tech Enthusiast 
 <br>
 <br>🎓 Software Engineering Student @ Daffodil International University
@@ -83,6 +83,8 @@ I am passionate about Software Development, Web Technologies, and building impac
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdullahalnoman003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
 <p align="center">
