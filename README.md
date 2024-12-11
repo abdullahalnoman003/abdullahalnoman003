@@ -1,5 +1,4 @@
-<img src="github-header-image.jpg" alt="Github" width="900" height="500">
-
+<p align="center"> <img src="github-header-image.jpg" align="justify" alt="Github" width="900" height="400"   > </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=TimesNewRoman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Al+Noman!;" />
 </h1>
