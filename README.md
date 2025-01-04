@@ -1,4 +1,4 @@
-<p align="center"> <img src="github-header-image.jpg" align="justify" alt="Github" width="900" height="400"   > </p>
+<!--<p align="center"> <img src="github-header-image.jpg" align="justify" alt="Github" width="900" height="400"   > </p>-->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=TimesNewRoman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Al+Noman!;" />
 </h1>
@@ -49,8 +49,8 @@ I am passionate about Software Development, Web Technologies, and building impac
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
 ### Database
@@ -106,7 +106,7 @@ I am passionate about Software Development, Web Technologies, and building impac
 ![](https://github-contributor-stats.vercel.app/api?username=abdullahalnoman003&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 ---
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=abdullahalnoman003&icon=0&color=4)](https://visitcount.itsvg.in" </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahalnoman003&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnoman003" /> </p>
 <p align="center">
 Thanks for visiting my profile! 🙏 <br>  
 **Feel free to reach out and connect with me!**
