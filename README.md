@@ -22,8 +22,8 @@ I am passionate about Software Development, Web Technologies, and building impac
 - Email: [noman22622@gmail.com](mailto:noman22622@gmail.com)
 - GitHub: [github.com/abdullahalnoman003](https://github.com/abdullahalnoman003)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/abdullahalnoman003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahalnoman003" height="30" width="40" /></a>
 <a href="https://fb.com/fb.abdullahalnoman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.abdullahalnoman" height="30" width="40" /></a>
 <a href="https://instagram.com/abdullah_al_noman_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah_al_noman_003" height="30" width="40" /></a>
@@ -96,12 +96,14 @@ I am passionate about Software Development, Web Technologies, and building impac
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Abdullah Al Noman's Top Languages" />
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abdullahalnoman003&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahalnoman003&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnoman003" /> </p>
 <p align="center">
