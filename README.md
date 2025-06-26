@@ -37,7 +37,7 @@ I am passionate about Software Development, Web Technologies, and building impac
 
 <h3> ⚙️ Languages and Tools </h3>
 <div align="center">
-  <table style="border-collapse: collapse; width: 100%;">
+  <table align="center" style="border-collapse: collapse; width: 100%;">
     <tr>
       <td style="padding: 8px; border: none; text-align: center;">Programming Languages</td>
       <td style="padding: 8px; border: none; text-align: center;">Web Development</td>
@@ -103,11 +103,6 @@ I am passionate about Software Development, Web Technologies, and building impac
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahalnoman003&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnoman003" /> </p>
 <p align="center">
