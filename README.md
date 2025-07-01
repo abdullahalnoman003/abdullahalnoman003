@@ -81,7 +81,9 @@ I am passionate about Software Development, Web Technologies, and building impac
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdullahalnoman003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahalnoman003&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
 # 📊 GitHub Stats:
 <p align="center">
@@ -97,11 +99,17 @@ I am passionate about Software Development, Web Technologies, and building impac
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdullahalnoman003&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=abdullahalnoman003&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" />
+</p>
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahalnoman003&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnoman003" /> </p>
