@@ -19,7 +19,7 @@ I am passionate about Software Development, Web Technologies, and building impac
 🌐 I'm continuously learning and growing, and I love working on innovative projects that make a difference.
 
 ## 📫 How to reach me:
-- Email: [noman22622@gmail.com](mailto:noman22622@gmail.com)
+- Email: [abdullahalnoman.swe003@gmail.com](mailto:abdullahalnoman.swe003@gmail.com)
 - GitHub: [github.com/abdullahalnoman003](https://github.com/abdullahalnoman003)
 
 <h3 align="center">Connect with me:</h3>
