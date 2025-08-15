@@ -87,15 +87,15 @@ I am passionate about Software Development, Web Technologies, and building impac
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" alt="Abdullah Al Noman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="Abdullah Al Noman's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false" alt="Abdullah Al Noman's GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false&hide_current_streak=true" alt="Abdullah Al Noman's GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Abdullah Al Noman's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie" alt="Abdullah Al Noman's Top Languages" />
 </p>
 
 ### 🔝 Top Contributed Repo
