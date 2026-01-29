@@ -1,3 +1,6 @@
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 <p align="center"> <img src="github-header-image.png" align="justify" alt="Github" > </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=TimesNewRoman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Al+Noman!;" />
@@ -82,7 +85,7 @@ I am passionate about Software Development, Web Technologies, and building impac
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahalnoman003&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahalnoman003" />
 </p>
 
 # 📊 GitHub Stats:
@@ -91,19 +94,18 @@ I am passionate about Software Development, Web Technologies, and building impac
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false&hide_current_streak=true" alt="Abdullah Al Noman's GitHub Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false" alt="Abdullah Al Noman's GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie" alt="Abdullah Al Noman's Top Languages" />
 </p>
 
-### 🔝 Top Contributed Repo
+### 🔝 Contribution Graph
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abdullahalnoman003&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalnoman003&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ### ✍️ Random Dev Quote
 <p align="center">
@@ -117,3 +119,6 @@ I am passionate about Software Development, Web Technologies, and building impac
 Thanks for visiting my profile! 🙏 <br>  
 **Feel free to reach out and connect with me!**
 </p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
