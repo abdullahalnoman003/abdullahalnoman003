@@ -1,124 +1,84 @@
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
-<p align="center"> <img src="github-header-image.png" align="justify" alt="Github" > </p>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=TimesNewRoman&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdullah+Al+Noman!;" />
-</h1>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-🚀 Aspiring Software Engineer | Technology Explorer | Tech Enthusiast 
-<br>
-<br>🎓 Software Engineering Student @ Daffodil International University
-<br>
-I am passionate about Software Development, Web Technologies, and building impactful solutions. I'm constantly learning and growing my skills to become a proficient Software Engineer in the tech industry.<br><br>---<br><br>
-
-## 🌱 Currently exploring:
-- ⚙️ **Web Development** (HTML, CSS, JavaScript, React, Next.js)
-- 🛠️ **Backend Technologies** (Node.js, Express, MongoDB)
-- 🕹️ **Version Control** (Git, GitHub)
-- 🛡️ **Cloud Platforms** (Google Cloud, Firebase)
-
-🌐 I'm continuously learning and growing, and I love working on innovative projects that make a difference.
-
-## 📫 How to reach me:
-- 📧 Email: [abdullahalnoman.swe003@gmail.com](mailto:abdullahalnoman.swe003@gmail.com)
-- 📲 Whatsapp: [+8801522102892](https://wa.me/+8801522102892)
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/abdullahalnoman003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahalnoman003" height="30" width="40" /></a>
-<a href="https://fb.com/fb.abdullahalnoman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb.abdullahalnoman" height="30" width="40" /></a>
-<a href="https://twitter.com/noman_1003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noman_1003" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/25589677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25589677" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerrank_noman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank_noman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdullahalnoman003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullahalnoman003" height="30" width="40" /></a> -->
-</p>
-
-# 💻 Tech Stack:
-
-
-<h3> ⚙️ Languages and Tools </h3>
 <div align="center">
-  <table align="center" style="border-collapse: collapse; width: 100%;">
-    <tr>
-      <td style="padding: 8px; border: none; text-align: center;">Programming Languages</td>
-      <td style="padding: 8px; border: none; text-align: center;">Web Development</td>
-      <td style="padding: 8px; border: none; text-align: center;">Database Languages</td>
-<!--       <td style="padding: 8px; border: none; text-align: center;">Cloud DevOps</td> -->
-      <td style="padding: 8px; border: none; text-align: center;">Others</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; border: 2px solid black; text-align: center;">
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-      </td> 
-      <td style="padding: 8px; border: 2px solid black; text-align: center;">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-          <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" width="40" /></a>  
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-      </td>
-      <td style="padding: 8px; border: 2px solid black; text-align: center;">
-       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-      </td>
-<!--       <td style="padding: 8px; border: 2px solid black; text-align: center;"> -->
-<!--         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  -->
-<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-      </td> -->
-      <td style="padding: 8px; border: 2px solid black; text-align: center;">
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      </td> 
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Abdullah%20Al%20Noman&fontSize=48&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=62&color=0:0f172a,50:1e3a8a,100:06b6d4" alt="Header" />
 </div>
 
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahalnoman003" />
-</p>
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="Abdullah Al Noman's GitHub Stats" />
-</p>
+<h3 align="center">Building modern, scalable, and user-focused software solutions.</h3>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false" alt="Abdullah Al Noman's GitHub Streak Stats" />
+  <a href="mailto:abdullahalnoman.swe003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/abdullahalnoman003" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Al%20Noman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/8801522102892" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnoman003&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=pie" alt="Abdullah Al Noman's Top Languages" />
-</p>
-
-### 🔝 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalnoman003&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</p>
-
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abdullahalnoman003&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalnoman003" /> </p>
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering student at **Daffodil International University**.
+- 💼 Aspiring software engineer focused on **full-stack web development**.
+- 🧠 Passionate about writing clean code, solving real-world problems, and learning modern technologies.
+- 🚀 Interested in building performant apps with great user experience and scalable backend architecture.
+- 🤝 Open to internships, collaboration, and impactful software projects.
+
+## 🔍 Current Focus
+
+- Building full-stack projects with **React, Next.js, Node.js, and MongoDB**.
+- Strengthening backend fundamentals with **Express.js, REST APIs, and database design**.
+- Improving software craftsmanship with **Git/GitHub workflows, code quality, and project architecture**.
+- Exploring cloud tooling with **Firebase** and **Google Cloud**.
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,python,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,linux,firebase,gcp,figma&perline=10" alt="Tech Stack" />
+</div>
+
+## 📊 GitHub Insights
+
 <p align="center">
-Thanks for visiting my profile! 🙏 <br>  
-**Feel free to reach out and connect with me!**
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalnoman003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abdullahalnoman003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahalnoman003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalnoman003&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/abdullahalnoman003" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/fb.abdullahalnoman" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/noman_1003" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahalnoman003&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile.</b><br/>
+  I love turning ideas into software — let's build something meaningful together.
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:1e3a8a,100:0f172a" alt="Footer" />
 </div>
