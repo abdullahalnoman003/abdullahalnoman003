@@ -67,6 +67,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" />
   </a>
 </p>
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -79,20 +80,16 @@
   <img src="https://trophy.ryglcloud.net/?username=abdullahalnoman003&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
 </p>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=abdullahalnoman003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=abdullahalnoman003&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=abdullahalnoman003&theme=dark&hide_border=true&show_icons=true" alt="Abdullah's GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=abdullahalnoman003&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdullahalnoman003&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalnoman003&radius=16&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalnoman003&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
 ## ✍️ Dev Quote
 
