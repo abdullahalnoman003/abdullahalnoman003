@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Abdullah%20Al%20Noman&fontSize=52&fontAlignY=40&fontColor=FFFFFF&desc=Software%20Engineering%20Student%20%7C%20MERN-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=62&animation=fadeIn&color=0:0f172a,45:1e3a8a,100:06b6d4" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Abdullah%20Al%20Noman&fontSize=52&fontAlignY=40&fontColor=FFFFFF&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=62&animation=fadeIn&color=0:0f172a,45:1e3a8a,100:06b6d4" alt="Header" />
 </div>
 
 <!-- <p align="center">
@@ -7,7 +7,7 @@
 </p> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&center=true&vCenter=true&width=650&height=70&duration=3500&pause=700&lines=Hi+There!+%F0%9F%91%8B;+I'm+Abdullah+Al+Noman!;Software+Engineer+in+Progress;MERN-Stack+Web+Developer;I+Build+Cool+Things+With+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&center=true&vCenter=true&width=650&height=70&duration=3500&pause=700&lines=Hi+There!+%F0%9F%91%8B;+I'm+Abdullah+Al+Noman!;Software+Engineer+in+Progress;Full-Stack+Web+Developer;I+Build+Cool+Things+With+Code" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🚀 Aspiring Software Engineer | MERN-Stack Developer | Tech Enthusiast
+### 🚀 Aspiring Software Engineer | Full-Stack Developer | Tech Enthusiast
 
 🎓 Software Engineering Student at **Daffodil International University**  
 💻 Passionate about **software development**, **web technologies**, and **building impactful products**  
