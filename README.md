@@ -7,7 +7,7 @@
 </p> -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&center=true&vCenter=true&width=650&height=70&duration=3500&pause=700&lines=Hi+There!+%F0%9F%91%8B;+I'm+Abdullah+Al+Noman!;Software+Engineer+in+Progress;Full-Stack+Web+Developer;I+Build+Cool+Things+With+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&center=true&vCenter=true&width=780&height=70&duration=3500&pause=800&lines=Hi+There!+%F0%9F%91%8B;I'm+Abdullah+Al+Noman;Software+Engineering+Student;Full+Stack+Developer;Backend+Engineering+Enthusiast;AI+%26+Data+Science+Explorer" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -18,27 +18,30 @@
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🚀 Aspiring Software Engineer | Full-Stack Developer | Tech Enthusiast
+### 🚀 Aspiring Software Engineer | Full-Stack Developer | Tech Enthusiast | Data Science 
 
-🎓 Software Engineering Student at **Daffodil International University**  
-💻 Passionate about **software development**, **web technologies**, and **building impactful products**  
-🌱 Continuously improving my engineering skills through projects, practice, and exploration
+I build software with an emphasis on solid backend architecture - clean API design, sensible data models, and code that holds up in production, not just in a demo. My current work centers on TypeScript, Node.js, and PostgreSQL, applying layered architecture principles (controllers, services, validation, and error handling) to real-world applications, alongside a full-stack foundation across the MERN ecosystem.
 
+I'm extending that foundation with data science and applied machine learning, and I'm currently developing my undergraduate thesis around an AI/data science topic. My goal over the next year is to move from strong fundamentals to a full-time software engineering role, with AI/ML as a growing area of specialization.
 ### 🧠 Developer Mode
 
-- Build clean, responsive frontends with modern frameworks.
-- Design backend APIs and data flows for practical, real-world use cases.
-- Follow Git/GitHub workflows with iterative improvement and collaboration.
-- Focus on readable code, performance, and long-term maintainability.
+- Designing backend systems with clear separation of concerns  controllers, services, middleware, and validation
+- Building full-stack applications end to end, from data modeling to deployed UI
+- Applying data science techniques - exploratory analysis, feature engineering, and predictive modeling
+- Writing readable, maintainable code and following disciplined Git/GitHub workflows
 
 <br clear="right" />
 
 ## 🌱 Currently Exploring
 
-- ⚙️ **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS
-- 🛠️ **Backend:** Node.js, Express.js, REST APIs
-- 🗄️ **Databases:** MongoDB, MySQL
-- ☁️ **Cloud & Tools:** Firebase, Google Cloud, Git, GitHub, Linux
+- 🤖 **Data & Machine Learning:** Pandas, NumPy, scikit-learn, exploratory data analysis, model evaluation
+- ⚙️ **Frontend:** React, Next.js, Tailwind CSS, DaisyUI, React Router, HTML, CSS
+- 🛠️ **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, Middleware, Layered Architecture
+- 🗄️ **Databases & ORM:** PostgreSQL, Prisma, MongoDB, MySQL
+- ☁️ **Tools & Platforms:** Git, GitHub, VS Code, Linux, Vite, Firebase, Vercel, Netlify, Figma
+
+Deepening my backend engineering skills - advanced TypeScript, authentication, testing, and software architecture - while building out data science and AI fundamentals in parallel, including exploratory data analysis and applied machine learning. Also developing my undergraduate thesis on an AI/data science topic. Longer term, I'm working toward a role as a professional software engineer, with the goal of building AI-powered applications and eventually working on international teams.
+
 
 ## 📫 Reach Me
 <p align="center">
@@ -95,6 +98,11 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
+<p><img data-importer="snake" src="https://raw.githubusercontent.com/abdullahalnoman003/abdullahalnoman003/snake-output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
