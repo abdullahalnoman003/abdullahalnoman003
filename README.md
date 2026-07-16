@@ -102,10 +102,6 @@ Deepening my backend engineering skills - advanced TypeScript, authentication, t
 
 ---
 
-<p><img data-importer="snake" src="https://raw.githubusercontent.com/abdullahalnoman003/abdullahalnoman003/snake-output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 <p align="center">
   <b>Thanks for visiting my profile! 🚀</b><br />
