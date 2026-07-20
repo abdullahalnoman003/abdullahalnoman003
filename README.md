@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/github/stars/abdullahalnoman003?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat&color=0891b2" alt="GitHub Stars" />
 </p>
 
-<img align="left" alt="Coding" width="250" src="profileimagebackgroundremoved.png">
+<img align="left" alt="Coding" width="30%" src="profileimagebackgroundremoved.png">
 
 <div>
 
@@ -118,7 +118,7 @@ Deepening my backend engineering skills - advanced TypeScript, authentication, t
 ## ✍️ Dev Quote
 
 <p align="center">
-  <img width="80%"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
