@@ -16,25 +16,39 @@
   <img src="https://img.shields.io/github/stars/abdullahalnoman003?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat&color=0891b2" alt="GitHub Stars" />
 </p>
 
-<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="250" src="profileImage.png">
 
-### 🚀 Aspiring Software Engineer | Full-Stack Developer | Tech Enthusiast | Data Science 
+<div>
+
+### 🚀  Full-Stack Developer | Aspiring Software Engineer | Tech Enthusiast | Data Science 
 
 I build software with an emphasis on solid backend architecture - clean API design, sensible data models, and code that holds up in production, not just in a demo. My current work centers on TypeScript, Node.js, and PostgreSQL, applying layered architecture principles (controllers, services, validation, and error handling) to real-world applications, alongside a full-stack foundation across the MERN ecosystem.
 
-I'm extending that foundation with data science and applied machine learning, and I'm currently developing my undergraduate thesis around an AI/data science topic. My goal over the next year is to move from strong fundamentals to a full-time software engineering role, with AI/ML as a growing area of specialization.
+I'm extending that foundation with data science and applied machine learning, and I'm currently developing skills around AI/data science. My goal over the next year is to move from strong fundamentals to a full-time software engineering role, with AI/ML as a growing area of specialization.
+
+<br>
+<br>
+
+<img align="left" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+
+
+
 ### 🧠 Developer Mode
 
 - Designing backend systems with clear separation of concerns  controllers, services, middleware, and validation
 - Building full-stack applications end to end, from data modeling to deployed UI
 - Applying data science techniques - exploratory analysis, feature engineering, and predictive modeling
-- Writing readable, maintainable code and following disciplined Git/GitHub workflows
+- Writing readable, maintainable code and following disciplined Git/GitHub 
 
-<br clear="right" />
+
+<br>
+<br>
 
 ## 🌱 Currently Exploring
 
 - 🤖 **Data & Machine Learning:** Pandas, NumPy, scikit-learn, exploratory data analysis, model evaluation
+- 📊 **Data Analysis & Visualization:** R, Matplotlib, Seaborn
 - ⚙️ **Frontend:** React, Next.js, Tailwind CSS, DaisyUI, React Router, HTML, CSS
 - 🛠️ **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, Middleware, Layered Architecture
 - 🗄️ **Databases & ORM:** PostgreSQL, Prisma, MongoDB, MySQL
@@ -74,7 +88,7 @@ Deepening my backend engineering skills - advanced TypeScript, authentication, t
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,typescript,python,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,linux,firebase,gcp,figma&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,typescript,r,python,react,nextjs,nodejs,express,mongodb,mysql,postgresql,prisma,githubactions,html,css,tailwind,git,github,linux,firebase,gcp,figma,vercel,netlify,vite,npm,pnpm,vscode,&perline=10" alt="Tech Stack" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -86,18 +100,25 @@ Deepening my backend engineering skills - advanced TypeScript, authentication, t
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=abdullahalnoman003&theme=dark&hide_border=true&show_icons=true" alt="Abdullah's GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=abdullahalnoman003&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img width="50%" src="https://github-readme-stats.shion.dev/api?username=abdullahalnoman003&theme=dark&hide_border=true&show_icons=true" alt="Abdullah's GitHub Stats" />
+<img width="38%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdullahalnoman003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
 </div>
 
+
 <div align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalnoman003&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="44%" src="https://streak-stats.demolab.com/?user=abdullahalnoman003&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalnoman003&theme=react-dark&hide_border=true&area=true" alt="GitHub Streak" />
 </div>
+<!-- <div align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahalnoman003&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div> -->
+
 
 ## ✍️ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img width="80%"  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
