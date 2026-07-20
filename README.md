@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/github/stars/abdullahalnoman003?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat&color=0891b2" alt="GitHub Stars" />
 </p>
 
-<img align="right" alt="Coding" width="250" src="profileImage.png">
+<img align="left" alt="Coding" width="250" src="profileimagebackgroundremoved.png">
 
 <div>
 
@@ -29,7 +29,7 @@ I'm extending that foundation with data science and applied machine learning, an
 <br>
 <br>
 
-<img align="left" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 
